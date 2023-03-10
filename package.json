@@ -1,0 +1,22 @@
+{
+  "name": "com.theider.unity-halftone",
+  "version": "1.0.0",
+  "displayName": "Halftone Postprocessing V3 Effect",
+  "description": "Custom PPV3 Effect to render the scene as a halftone image using the CGA4 palette (magenta/cyan/black and white).",
+  "unity": "2019.1",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/ParkingLotGames/unity-halftone-ppv3/",
+  "changelogUrl": "https://https://github.com/ParkingLotGames/unity-halftone-ppv3/releases/",
+  "licensesUrl": "https://github.com/ParkingLotGames/unity-halftone-ppv3/",
+  "keywords": [
+    "json",
+    "package",
+    "editor"
+  ],
+  "author": {
+    "name": "Parking Lot Games",
+    "email": "parkinglotstudiogames@gmail.com",
+    "url": "https://github.com/ParkingLotGames/unity-halftone-ppv3/"
+  },
+  "dependencies": {}
+}
